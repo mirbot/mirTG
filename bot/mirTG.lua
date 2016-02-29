@@ -234,6 +234,8 @@ function create_config( )
     "download_media",
     "invite",
     "all",
+    "smirbotTG",
+    "mirbotTG",
     "leave_ban"
     },
     sudo_users = {91932250}
